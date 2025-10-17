@@ -1,3 +1,9 @@
+# Sicherheitskuration
+
+Die AG hat die Aufgabe sich an der inhaltlichen Verbesserung und Weiterentwicklung der Anforderungen und Maßnahmen in der Stand-der-Technik – Bibliothek und zur Sicherung der Qualität und Aktualität zu beteiligen.
+----
+
+
 # Stand der Technik Bibliothek
 
 Diese Bibliothek stellt strukturierte Sammlungen von BSI-Sicherheitsvorschriften nach dem aktuellen Stand der Technik in der Informations- und Cybersicherheit bereit. Diese Dokumente werden hier als maschinenlesbare OSCAL-Dokumente bereitgestellt. Das OSCAL-Framework dient als einheitliches Format für maschinenlesbare Dokumente im Compliance-Prozess und ermöglicht einen datenzentrierten Ansatz für die Sicherheitsdokumentation. Weitere Informationen zur Datenstruktur der Inhalte finden Sie in der [Dokumentation zu OSCAL](./Dokumentation/OSCAL.md).
