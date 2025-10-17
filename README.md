@@ -1,7 +1,19 @@
 # Sicherheitskuration
 
 Die AG hat die Aufgabe sich an der inhaltlichen Verbesserung und Weiterentwicklung der Anforderungen und Maßnahmen in der Stand-der-Technik – Bibliothek und zur Sicherung der Qualität und Aktualität zu beteiligen.
-----
+
+Erste Aufgaben sollte die Festlegung eines gemeinsamen Verständnis der QS sein. Hierzu wird eine Diskussion gestartet.
+
+Von der Meldung an das BSI ist folgendes vorgehen vorgesehen: Diskussion daraus -> Issue -> Pull Request. Da dies sowohl für uns als auch das BSI noch "Neuland" :) müssen wir das genaue vorgehen noch abstimmen.
+
+Weiteres Angebot, was sich in der ersten Beteiligungsphase ls Hilfreich herausgestellt hat ist ein regelmässiges Treffen. Ich schlage hierzu wieder den Donnerstag 14:30 vor (1h). Ergänzt um ein Angebot für nachzügler die sich gerne noch Beteiligen wollen dazu eine PM an mich mit individuellem Termin.
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Stand der Technik Bibliothek
@@ -15,20 +27,6 @@ Sie sind in einer Institution mit der Informationssicherheit betraut oder auditi
 **→ Besuchen Sie das [Kompendien](./Kompendien/) Verzeichnis**
  
 Hier finden Sie die fertigen Kompendien mit digital strukturierten Vorschriften, die direkt in einer Institution angewendet werden können.
-
-## ✏️ Für Editoren
-
-Sie arbeiten gemeinsam mit dem BSI an der Entwicklung von Vorschriften und möchten die aktuellen Grundlagendokumente hierfür prüfen oder bearbeiten?
-
-**→ Besuchen Sie das [Quellkataloge](./Quellkataloge/) Verzeichnis**
-
-Hier finden Sie die maschinenlesbaren Quelldaten für die Erstellung und Bearbeitung von Sicherheitsvorschriften in den Formaten json und xml.
-
-
-## 🚀 Erste Schritte
-
-1. **Als Anwender**: Navigieren Sie zu [Kompendien](./Kompendien/) und wählen Sie das für Ihre Institution passende Kompendium.
-2. **Als Editor**: Wenn Sie Interesse an einer Zusammenarbeit mit dem BSI haben, wenden Sie sich bitte an stand-der-technik@bsi.bund.de.
 
 ## 🤝 Mitwirken
 
