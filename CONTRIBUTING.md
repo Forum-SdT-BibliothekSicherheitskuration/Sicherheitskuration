@@ -24,7 +24,8 @@ Wir begrüßen Beiträge in verschiedenen Formen, einschließlich Vorschlägen, 
 
 ### Einreichen von Änderungsvorschlägen
 
-Änderungsvorschläge nimmt das BSI über die Arbeitsgruppen der Community entgegen. Wenn Sie Interesse an einer Mitwirkung haben, wenden Sie sich bitte an stand-der-technik@bsi.bund.de.
+Änderungsvorschläge nimmt das BSI über die Arbeitsgruppen der Community entgegen. Wenn Sie Interesse an einer Mitwirkung haben, wenden Sie sich bitte an die Editoren der jeweiligen Arbeitsgruppe. Eine Übersicht über die Arbeitsgruppen finden sie [hier](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Informationssicherheitsmanagement/Stand-der-Technik/stand-der-technik_node.html).
+
 
 ## Lizenzierung
 
