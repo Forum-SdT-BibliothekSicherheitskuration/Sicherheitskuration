@@ -26,6 +26,12 @@ Wir begrüßen Beiträge in verschiedenen Formen, einschließlich Vorschlägen, 
 
 Änderungsvorschläge nimmt das BSI über die Arbeitsgruppen der Community entgegen. Wenn Sie Interesse an einer Mitwirkung haben, wenden Sie sich bitte an die Editoren der jeweiligen Arbeitsgruppe. Eine Übersicht über die Arbeitsgruppen finden sie [hier](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Informationssicherheitsmanagement/Stand-der-Technik/stand-der-technik_node.html).
 
+Die offiziellen Forks der AGs 1-4 finden Sie hier:<br>
+AG-1: [Forum SdT-Bibliothek (Sicherheitskuration)](https://github.com/Forum-SdT-BibliothekSicherheitskuration/Stand-der-Technik-Bibliothek-Fork)<br>
+AG-2: [Werkzeugbox](https://github.com/Stand-der-Technik-Pro/Stand-der-Technik-Bibliothek)<br>
+AG-3: [Nutzergenerierte Inhalte](https://github.com/AG-3-Nutzergenerierte-Inhalte/Stand-der-Technik-Bibliothek)<br>
+AG-4: [Praxisbeispiele](https://github.com/AG-4-Praxisbeispiele/AG-Praxisbeispiele)
+
 
 ## Lizenzierung
 
